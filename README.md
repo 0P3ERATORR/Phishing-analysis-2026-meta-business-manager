@@ -249,6 +249,20 @@ If the recipient did not interact with the lure:
 * Monitor the affected account for unusual invitations or permission changes.
 * Report the suspicious partner request through Meta's official channels.
 
+If the recipient interacted with the lure:
+
+- Revoke unauthorized partner access immediately.
+- Review Pages, ad accounts, pixels, payment settings, and business permissions.
+- Reset the affected account password.
+- Revoke active sessions.
+- Review and reconfigure MFA if credentials or codes may have been disclosed.
+- Investigate recent advertising and payment activity.
+- Preserve Meta account and activity logs for further investigation.
+
+### Recovery
+
+Recovery should confirm that only legitimate administrators and partners retain access, account recovery information is correct, MFA remains securely configured, and no unauthorized business assets or permissions remain.
+
 
 ## Investigation Evidence
 
