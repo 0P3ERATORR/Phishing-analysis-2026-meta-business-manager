@@ -258,25 +258,25 @@ The following screenshots were captured during the investigation and document th
 
 Shows the sender, Return-Path, Reply-To, subject, and message date extracted directly from the `.eml` file.
 
-`01_sender_header_triage.png`
+![Sender Header Triage](screenshots/01_sender_header_triage.png)
 
 ### 2. Email Authentication Results
 
 Shows SPF, DKIM, DMARC, and Microsoft composite authentication successfully passing for `business.facebook.com`.
 
-`02_authentication_results.png`
+![Email Authentication Results](screenshots/02_authentication_results.png)
 
 ### 3. Sending Infrastructure
 
 Shows the message being received from Facebook/Meta mail infrastructure at `69.171.232.142`.
 
-`03_sending_infrastructure.png`
+![Sending Infrastructure](screenshots/03_sending_infrastructure.png)
 
 ### 4. Decoded Phishing Lure
 
 Shows the locally decoded plain-text email body containing the suspicious Messenger reference.
 
-`04_decoded_phishing_lure.png`
+![Decoded Phishing Lure](screenshots/04_decoded_phishing_lure.png)
 
 ### 5. Suspicious Request Text
 
@@ -284,18 +284,18 @@ Isolates the attacker-controlled business-name text:
 
 `Your Business Is Approved for Partnership m.me/670065706200806 Other links`
 
-`05_suspicious_request_text.png`
+![Suspicious Request Text](screenshots/05_suspicious_request_text.png)
 
 ### 6. Sender IP WHOIS
 
 Shows WHOIS results confirming that the sending IP range is registered to Facebook, Inc.
 
-`06_sender_ip_whois.png`
+![Sender IP WHOIS](screenshots/06_sender_ip_whois.png)
 
 ### 7. Threat-Intelligence Corroboration
 
 Shows comparison with the source investigation, including the reported Messenger lure page and associated Meta identifiers.
 
-`07_threat_intelligence_corroboration.png`
+![Threat-Intelligence Corroboration](screenshots/07_threat_intelligence_corroboration.png)
 
 > The screenshots in this project were captured during my own investigation. Screenshots included in the original source repository were not reused as investigation evidence.
