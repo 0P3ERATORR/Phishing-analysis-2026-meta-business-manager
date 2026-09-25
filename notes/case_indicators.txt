@@ -1,0 +1,9 @@
+Messenger ID: 670065706200806
+Partner Request ID: 980425691238214
+Business ID: 2836451836418284
+
+Classification:
+Messenger ID 670065706200806 - Suspicious lure identifier
+Partner Request ID 980425691238214 - Case-specific Meta request identifier
+Business ID 2836451836418284 - Case-specific Meta Business identifier
+Sender IP 69.171.232.142 - Legitimate Meta infrastructure; do not block as malicious

@@ -1,0 +1,6 @@
+Sender IP: 69.171.232.142
+WHOIS NetName: TFBNET3
+Registered Organization: Facebook, Inc.
+
+Assessment:
+The sender IP is legitimate Facebook/Meta infrastructure. Combined with successful SPF, DKIM, and DMARC authentication, this supports platform/workflow abuse rather than traditional sender spoofing. The sender IP should not be treated as a malicious blocking IOC.

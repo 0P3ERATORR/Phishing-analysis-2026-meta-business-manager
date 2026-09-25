@@ -1,0 +1,22 @@
+Containment and Recovery Recommendations
+
+If the recipient did NOT interact with the lure:
+- Remove/quarantine the phishing email.
+- Warn the recipient not to follow the Messenger lure or approve the partner request.
+- Review other recent Meta Business Manager partner requests for similar wording or identifiers.
+- Monitor the affected account for unusual partner invitations, login activity, or business-asset changes.
+- Report the malicious partner request through Meta's official reporting channels.
+
+If the recipient DID interact with the lure:
+- Revoke any unauthorized Meta Business Manager partner access immediately.
+- Review business assets, Pages, ad accounts, pixels, and permissions for unauthorized changes.
+- Reset the affected account password.
+- Revoke active sessions and re-authenticate trusted devices.
+- Review and reconfigure MFA if credentials or MFA codes may have been disclosed.
+- Investigate recent advertising activity and payment changes for unauthorized use.
+- Preserve relevant Meta activity logs and account evidence for further investigation.
+
+Recovery:
+- Confirm that only legitimate administrators and partners retain access.
+- Validate account recovery information and MFA configuration.
+- Continue monitoring for follow-on social-engineering attempts.

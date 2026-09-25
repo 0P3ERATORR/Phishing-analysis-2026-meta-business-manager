@@ -1,0 +1,14 @@
+MITRE ATT&CK Mapping
+
+T1566.003 - Phishing: Spearphishing via Service
+Evidence: A legitimate Meta Business Manager workflow was used to deliver the phishing lure.
+
+T1684.001 - Social Engineering: Impersonation
+clearEvidence: Attacker-controlled request text impersonated Meta Platforms and attempted to appear as an official Meta business communication.
+
+Excluded due to insufficient evidence:
+T1111 - MFA Interception
+T1657 - Financial Theft
+T1531 - Account Access Removal
+T1199 - Trusted Relationship
+T1036.005 - Match Legitimate Resource Name or Location

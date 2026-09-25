@@ -1,0 +1,16 @@
+Threat Intelligence Findings
+
+Independently verified:
+- Messenger lure identifier: 670065706200806
+- Business Manager ID: 2836451836418284
+- Partner Request ID: 980425691238214
+- Messenger string appears as plain text inside the requester-controlled business name.
+- Sender authentication passed SPF, DKIM, and DMARC.
+- Sender IP 69.171.232.142 belongs to legitimate Facebook/Meta infrastructure.
+
+Source-reported corroboration:
+- The original investigator reported that Facebook ID 670065706200806 redirected in an isolated VM to a page named "Partner Program Platform".
+- Reported Facebook profile ID: 61578819584100.
+
+Assessment:
+The evidence supports abuse of a legitimate Meta Business Manager workflow rather than conventional email-domain spoofing.

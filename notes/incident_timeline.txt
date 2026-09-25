@@ -1,0 +1,17 @@
+Incident Timeline
+
+25 May 2026 07:41:56 -0700
+Meta-generated Business Manager partner request email created/sent.
+
+25 May 2026 14:57:20 +0000
+Email received by Microsoft infrastructure from 69.171.232.142, a Facebook/Meta-owned mail server.
+
+25 May 2026 14:57:23 +0000
+Message processed/delivered through the recipient's Outlook environment.
+
+Content observed:
+The notification contained attacker-controlled business-name text:
+"Your Business Is Approved for Partnership m.me/670065706200806 Other links"
+
+Assessment:
+The phishing lure was delivered through a legitimate Meta Business Manager workflow rather than through spoofed email infrastructure.

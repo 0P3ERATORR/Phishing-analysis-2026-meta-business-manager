@@ -1,0 +1,25 @@
+Escalation Decision
+
+Classification:
+Confirmed phishing / social-engineering attempt involving abuse of a legitimate Meta Business Manager workflow.
+
+Initial Severity:
+Medium
+
+Reason for Escalation:
+- The message originated from legitimate Meta infrastructure and passed SPF, DKIM, and DMARC.
+- Attacker-controlled text was inserted into a legitimate Business Manager partner request.
+- The lure attempted to move the recipient toward a Messenger identifier.
+- Traditional sender-authentication controls alone would not reliably identify this activity.
+
+Compromise Status:
+No confirmed compromise.
+
+The available evidence does not show that the recipient:
+- interacted with the Messenger lure,
+- approved the partner request,
+- disclosed credentials or MFA codes,
+- or lost access to a Meta Business account.
+
+SOC Decision:
+Escalate for phishing investigation and user/account validation. Further response should depend on whether the recipient interacted with the request.
